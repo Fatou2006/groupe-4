@@ -1,1 +1,2 @@
-hdgfhf
+// calcul somme pour Alix
+float 
